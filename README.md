@@ -11,4 +11,4 @@ Nagios notifications for SIGNL, with JSON payload:
 
 * Define the new notification commands in Nagios (example in signl4_commands.cfg, modify paths as required).
 
-* Set up a new contact to use the new host and service notification commands or add them to the existing commands.
+* Set up a new contact to use the new host and service notification commands or add them to the existing contacts.
